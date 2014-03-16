@@ -1,0 +1,13 @@
+INDEX VERSION 1.126+D:\taras\coursera\android\.metadata\.plugins\org.eclipse.jdt.core
+1252910178.index
+48456857.index
+2161891675.index
+947831474.index
+1400960747.index
+3574454983.index
+1262521563.index
+268917900.index
+3164414354.index
+3336355265.index
+296074587.index
+2746653723.index
