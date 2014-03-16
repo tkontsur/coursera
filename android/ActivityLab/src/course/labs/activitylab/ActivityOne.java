@@ -64,7 +64,7 @@ public class ActivityOne extends Activity {
 				// Hint: use Context's startActivity() method
 
 				// Create an intent stating which Activity you would like to start
-				Intent intent = new Intent(Intent.ACTION_VIEW, null, null, ActivityTwo.class);
+				Intent intent = new Intent(Intent.ACTION_VIEW, null, null, course.labs.activitylab.ActivityTwo.class);
 				
 				// Launch the Activity using the intent
 				startActivity(intent);
